@@ -1,4 +1,4 @@
-# Calculator Task-1
+# Calculator 
 
 This project is a basic calculator designed to perform essential mathematical operations, including addition, subtraction, multiplication, and division. The calculator is built using **HTML**, **CSS**, and **JavaScript**.
 
